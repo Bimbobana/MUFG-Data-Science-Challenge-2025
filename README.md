@@ -3,6 +3,12 @@ Data analysis, modeling, and visualization for the MUFG Data Science Challenge 2
 
 ---
 
+## Overview
+
+This repository contains all scripts, data preparation steps, and analysis work related to the MUFG Data Science Challenge 2025, a student-exclusive data science competition hosted by SIGNATE and organized by Mitsubishi UFJ Financial Group (MUFG). The challenge focuses on predicting loan approvals and credit risk for small and medium-sized enterprises using real-world financial data.
+
+---
+
 ## Feature Details
 
 | Header Name                  | Example Value                        | Data Type  | Description                                                                 |
